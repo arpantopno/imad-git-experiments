@@ -1,6 +1,6 @@
 function newfeature() {
  console.log('A lot of code');
-console.log('halfway done');
+console.log('completely done');
 }
 function something() {
  console.log('I\'m something');
